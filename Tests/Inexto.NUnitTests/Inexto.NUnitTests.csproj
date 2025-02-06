@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Inexto\Inexto.csproj" />
+    <ProjectReference Include="..\..\Inexto\Inexto.csproj" />
   </ItemGroup>
 
   <ItemGroup>
