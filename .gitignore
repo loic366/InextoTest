@@ -1,0 +1,7 @@
+.vs/
+Inexto/bin/
+Inexto/obj/
+Tests/Inexto.NUnitTests/bin/
+Tests/Inexto.NUnitTests/obj/
+Tests/Inexto.XUnitTests/bin/
+Tests/Inexto.XUnitTests/obj/
